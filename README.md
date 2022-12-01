@@ -168,18 +168,6 @@ Terdapat 5 menu Pilihan, yaitu :
 + Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa.
 + Fitur Hapus Data Nilai Mahasiswa
 Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini.
-``` python
-Terdapat 5 menu Pilihan, yaitu :
-```
-+ 1 Tambah Data 2 Lihat Data 3 Ubah Data 4 Hapus Data 0 Keluar Aplikasi
-
-+ Lihat Data Nilai Mahasiswa
-+ Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Select Menu (1-2-3-4-5).
-+ Menambahkan Data
-+ ubah data
-+ Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa.
-+ Fitur Hapus Data Nilai Mahasiswa
-Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini.
 
 # Output
 <img width="960" alt="Screenshot_41" src="https://user-images.githubusercontent.com/115516635/205009666-58b8869e-56bb-4039-9f4d-b2358c932cb7.png">
