@@ -48,7 +48,7 @@ print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".
 print("   Hasil : lambda s: "".join(set(s)))")
 ```
 
-# Hasil Input
+# Hasil Output
 <img width="959" alt="Screenshot_39" src="https://user-images.githubusercontent.com/115516635/204831581-4099f121-5417-4148-acc0-a1101c240127.png">
 
 # Tugas Praktikum
@@ -110,7 +110,7 @@ def ubah():
     print("___________________________________")
     if nama in data.keys():
         nim = input("NIM baru\t\t\t: ")
-        tugas = int(input("Nilai Tugas Baru\t: "))
+        tugas = int(input("Nilai Tugas Baru\t: "))c
         uts = int(input("Nilai UTS Baru\t\t: "))
         uas = int(input("Nilai UAS Baru\t\t: "))
         nilaiakhir = (tugas * 30 / 100 + uts * 35 / 100 + uas * 35 / 100)
@@ -151,7 +151,36 @@ while True:
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
 ```
-+ 
-        
++ Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di jalankan pada kali pertama, maka akan mu
 
+<img width="960" alt="Screenshot_40" src="https://user-images.githubusercontent.com/115516635/205009234-2cd9a9f4-cf4d-4b20-b6d1-43b98d205779.png">
+
+
+``` python
+Terdapat 5 menu Pilihan, yaitu :
+```
++ 1 Tambah Data 2 Lihat Data 3 Ubah Data 4 Hapus Data 0 Keluar Aplikasi
+
++ Lihat Data Nilai Mahasiswa
++ Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Select Menu (1-2-3-4-5).
++ Menambahkan Data
++ ubah data
++ Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa.
++ Fitur Hapus Data Nilai Mahasiswa
+Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini.
+``` python
+Terdapat 5 menu Pilihan, yaitu :
+```
++ 1 Tambah Data 2 Lihat Data 3 Ubah Data 4 Hapus Data 0 Keluar Aplikasi
+
++ Lihat Data Nilai Mahasiswa
++ Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Select Menu (1-2-3-4-5).
++ Menambahkan Data
++ ubah data
++ Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa.
++ Fitur Hapus Data Nilai Mahasiswa
+Sistem akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini.
+
+# Output
+<img width="960" alt="Screenshot_41" src="https://user-images.githubusercontent.com/115516635/205009666-58b8869e-56bb-4039-9f4d-b2358c932cb7.png">
 
