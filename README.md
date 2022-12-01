@@ -48,7 +48,7 @@ print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".
 print("   Hasil : lambda s: "".join(set(s)))")
 ```
 
-# Hasil Output
+# +Hasil Output
 <img width="959" alt="Screenshot_39" src="https://user-images.githubusercontent.com/115516635/204831581-4099f121-5417-4148-acc0-a1101c240127.png">
 
 # Tugas Praktikum
